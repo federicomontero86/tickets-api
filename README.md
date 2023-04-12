@@ -6,6 +6,8 @@
 
 Clonar el repositorio para correr la aplicación de manera local
 
+https://github.com/federicomontero86/tickets-api
+
 ---
 
 ## Instalación
